@@ -1,5 +1,4 @@
 //Sándor-Rokaly Kata
-//GHI00W
 
 #include "cmyvector.h"
 
@@ -102,7 +101,7 @@ void CMyVector<T>::sort(bool f)
 {
 	if (f)
 	{
-		std::sort(m_pData, m_pData + m_nSize);
+		std::sort(m_pData, m_pData + m_nSize, [](T a, T b) {return a < b; });
 	}
 	else
 	{

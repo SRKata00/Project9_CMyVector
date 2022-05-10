@@ -1,3 +1,4 @@
+//Sándor-Rokaly Kata
 #include "pch.h"
 #include "CppUnitTest.h"
 

@@ -1,5 +1,4 @@
 //Sándor-Rokaly Kata
-//GHI00W
 
 #pragma once
 #include <iostream>

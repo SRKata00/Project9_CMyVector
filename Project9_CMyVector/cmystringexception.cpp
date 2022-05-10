@@ -1,7 +1,7 @@
 //Sándor-Rokaly Kata
-//GHI00W
 
 #include "cmystringexception.h"
+
 
 CMyStringException::CMyStringException()
 {
